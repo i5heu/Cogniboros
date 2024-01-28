@@ -23,5 +23,3 @@ flowchart TD
     A -->|API| G((UI))
 
 ```
-
-![Cogniboros](docs/mermaid.svg)
